@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\bin\Debug\Calculadora que agora tem que dar certo.exe.config
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\bin\Debug\Calculadora que agora tem que dar certo.exe
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\bin\Debug\Calculadora que agora tem que dar certo.pdb
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\obj\Debug\Calculadora que agora tem que dar certo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\obj\Debug\Calculadora_que_agora_tem_que_dar_certo.MainForm.resources
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\obj\Debug\Calculadora que agora tem que dar certo.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\obj\Debug\Calculadora que agora tem que dar certo.exe
+C:\Users\aluno\Desktop\Calculadora que agora tem que dar certo\Calculadora que agora tem que dar certo\obj\Debug\Calculadora que agora tem que dar certo.pdb
